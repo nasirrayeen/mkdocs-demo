@@ -1,13 +1,11 @@
-# Welcome to Demo Docs
+# Notes for curious builders
 
-This is a sample MkDocs site created with Material for MkDocs.
+Fieldnotes is a small blog about building useful things, learning in public, and making everyday work a little better.
 
-## Features
+Browse the [latest articles](blog/index.md), or learn [about this site](about.md).
 
-- Fast documentation generation
-- Clean Markdown workflow
-- Easy publishing to GitHub Pages or other static hosting
+## Recent topics
 
-## Next step
-
-Open the [Getting Started](getting-started.md) page for setup instructions.
+- **Build** — tools, projects, and lessons from making things
+- **Learn** — ideas worth understanding and sharing
+- **Work** — practical ways to focus and collaborate
