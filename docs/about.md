@@ -1,8 +1,10 @@
 # About
 
-Fieldnotes is a home for practical ideas, useful experiments, and lessons learned along the way.
+DevOps Fieldnotes is a practical blog about modern software delivery and operations. It focuses on the systems, habits, and team practices that help organizations deliver value reliably—from the first code change through production support.
 
-Posts are written in Markdown, organized by category, and published with [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+Topics include CI/CD, platform engineering, infrastructure as code, observability, reliability, and application security. The goal is to explain useful ideas clearly without treating any single tool as a substitute for good engineering and collaboration.
+
+Posts are written in Markdown and published with [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 ## Suggest a topic
 

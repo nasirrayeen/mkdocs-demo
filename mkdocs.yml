@@ -1,5 +1,5 @@
-site_name: Fieldnotes
-site_description: Practical notes on building, learning, and working better.
+site_name: DevOps Fieldnotes
+site_description: Practical guidance for building, securing, and operating modern software.
 site_url: https://nasirrayeen.github.io/mkdocs-demo/
 repo_url: https://github.com/nasirrayeen/mkdocs-demo
 edit_uri: edit/main/docs/

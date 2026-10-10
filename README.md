@@ -1,6 +1,6 @@
-# Fieldnotes
+# DevOps Fieldnotes
 
-A lightweight blog built with [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+A blog about modern software delivery and operations, built with [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 **Live site:** <https://nasirrayeen.github.io/mkdocs-demo/>
 
@@ -28,12 +28,12 @@ Create a Markdown file under `docs/blog/posts/`. Add metadata at the top:
 ---
 date: 2026-10-11
 categories:
-  - Tutorials
+  - DevOps
 description: A short summary displayed with the post preview.
 ---
 ```
 
-Add a title and an introductory excerpt, followed by `<!-- more -->` to mark where the preview ends. Use an ISO date (`YYYY-MM-DD`) and one or more categories.
+Add a title and an introductory excerpt, followed by `<!-- more -->` to mark where the preview ends. Use an ISO date (`YYYY-MM-DD`) and one or more categories such as DevOps, CI/CD, Platform Engineering, Reliability, or Security.
 
 ## Deployment
 

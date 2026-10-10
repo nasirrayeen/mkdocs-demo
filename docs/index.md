@@ -1,11 +1,12 @@
-# Notes for curious builders
+# DevOps Fieldnotes
 
-Fieldnotes is a small blog about building useful things, learning in public, and making everyday work a little better.
+DevOps is how teams make software delivery a reliable, shared responsibility—not just a collection of tools. This site explores the practices behind shipping changes safely, operating services confidently, and making the path to production easier for developers.
 
-Browse the [latest articles](blog/index.md), or learn [about this site](about.md).
+Read the latest [DevOps articles](blog/index.md), or find out [about this site](about.md).
 
-## Recent topics
+## What we cover
 
-- **Build** — tools, projects, and lessons from making things
-- **Learn** — ideas worth understanding and sharing
-- **Work** — practical ways to focus and collaborate
+- **Delivery** — CI/CD, small batches, and progressive releases
+- **Platforms** — self-service workflows and infrastructure as code
+- **Operations** — observability, reliability, and learning from incidents
+- **Security** — secure defaults and software supply-chain practices

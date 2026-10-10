@@ -1,3 +1,3 @@
 # Blog
 
-Thoughtful notes on making things, learning continuously, and finding better ways to work. Browse the latest posts below or explore the archives and categories.
+Practical ideas for modern DevOps: reliable delivery, developer platforms, secure software, and operating production systems well. Browse the latest articles or explore the archives and categories.
