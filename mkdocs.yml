@@ -1,0 +1,20 @@
+site_name: Demo Docs
+site_description: A simple MkDocs project
+site_url: https://example.com/
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - tables
